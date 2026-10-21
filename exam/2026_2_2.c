@@ -9,6 +9,10 @@ int main(){
             case 3: printf("3");
             case 4: printf("4"); break;
             default: printf("0"); break;
+            // i = 1     12
+            // i = 2     2
+            // i = 3 i % 4 = 3 case3 ->34
+            // i = 4  0
         
         }
     }
